@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-09-30T11:20:42-04:30
+
+====== Configuración de Zim ======
+
+Zim es un editor offline (escritorio) de Wiki en formato markdown, permite insertar gráficas (vía gnuplot), capturas de pantalla (scrot)
+
+===== Instalación =====
+
+Para instalar Zim:
+
+  apt-get install zim gnuplot scrot graphviz ttf-liberation
+
+
